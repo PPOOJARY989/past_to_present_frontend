@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "src",
+			"path": "."
+		},
+		{
+			"name": "past_to_present_frontend",
+			"path": "../../../past_2_present/past_to_present_frontend"
+		}
+	],
+	"settings": {}
+}
